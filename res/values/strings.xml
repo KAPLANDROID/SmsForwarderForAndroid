@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">SMS Forwarder</string>
+    <string name="smsEnabled">SMS Forwarding Enabled</string>
+    <string name="smsDisabled">SMS Forwarding Disabled</string>
+    <string name="smsNumberEmpty">Number is empty</string>
+    <string name="smsErrorGetNumber">An error occurred while reading contact.</string>
+    <string name="smsForwardStatus">Forwarding Status</string>
+    <string name="smsEnable">Enable</string>
+    <string name="smsDisable">Disable</string>
+    <string name="smsSave">Save</string>
+    <string name="smsPhoneBook">Phone Book</string>
+
+</resources>

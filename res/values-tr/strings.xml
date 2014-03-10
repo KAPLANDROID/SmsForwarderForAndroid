@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">SMS Yönlendirici</string>
+    <string name="smsEnabled">SMS Yönlendirme Aktifleştirildi.</string>
+    <string name="smsDisabled">SMS Yönlendirme İptal edildi.</string>
+    <string name="smsNumberEmpty">Numara boş olamaz!</string>
+    <string name="smsErrorGetNumber">Rehberden okurken hata oluştu.</string>
+    <string name="smsForwardStatus">Yönlendirme Durumu</string>
+    <string name="smsEnable">Aktifleştir</string>
+    <string name="smsDisable">İptalet</string>
+    <string name="smsSave">Kaydet</string>
+    <string name="smsPhoneBook">Rehberden Seç</string>
+
+</resources>
